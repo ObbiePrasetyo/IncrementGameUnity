@@ -2,13 +2,11 @@
 
 ## Features & Keybinds
 
-- This is a 1 player game
-- The rules are simple, just tap as much as you can to upgrade your resources to be rich man!.
+- Game yang dibuat untuk 1 Player
+- Jadilah orang terkaya seperti Jeff Bezos
 - Controls:
-  - Left click to coin area
-  
-## Additional Features
-- Nice design color UI
-- Sfx sounds while :
+  - Klik kiri pada mouse di area coin
+  - Upgrade akan terbuka jika coin sudah mencukupi
+- Sfx sounds  :
   - Unlocked new resources!
   - Tapping coins
