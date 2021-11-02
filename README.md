@@ -10,3 +10,4 @@
 - Sfx sounds  :
   - Unlocked new resources!
   - Tapping coins
+ 
